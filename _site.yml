@@ -1,0 +1,23 @@
+name: "Monitor"
+output_dir: "."
+navbar:
+  title: "Índice"
+  left:
+    - text: "Agregados"
+      href: Agregados.html
+    - text: "Tasas"
+      href: Tasas.html
+    - text: "Pasivos Remunerados"
+      href: Pasivos.html
+    - text: "Depósitos"
+      href: Depositos.html
+    - text: "Préstamos"
+      href: Prestamos.html
+    - text: "Reservas"
+      href: Reservas.html
+    - text: "Dólar"
+      href: Dolar.html
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
