@@ -1,0 +1,148 @@
+---
+title: ""
+output: html_document
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_knit$set(root.dir=normalizePath("."))
+```
+
+
+## M2
+
+<a id="M20"></a>
+
+<br><br><br><br>
+
+### 24
+![](./Graficos/M20.png)
+<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico24.csv" target="_blank">Descargar Datos</a>
+
+<a id="M21"></a>
+
+<br><br><br><br>
+
+### 25
+![](./Graficos/M21.png)
+<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico25.csv" target="_blank">Descargar Datos</a>
+
+<a id="M22"></a>
+
+<br><br><br><br>
+
+### 26
+![](./Graficos/M22.png)
+<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico26.csv" target="_blank">Descargar Datos</a>
+
+<a id="M23"></a>
+
+<br><br><br><br>
+
+### 27
+![](./Graficos/M23.png)
+<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico27.csv" target="_blank">Descargar Datos</a>
+
+## Componentes de M2
+
+<a id="M2c0"></a>
+
+<br><br><br><br>
+
+### 28
+![](./Graficos/M20_lin.png)
+<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico28.csv" target="_blank">Descargar Datos</a>
+
+<a id="M2c1"></a>
+
+<br><br><br><br>
+
+### 29
+![](./Graficos/M21_lin.png)
+<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico29.csv" target="_blank">Descargar Datos</a>
+
+<a id="M2c2"></a>
+
+<br><br><br><br>
+
+### 30
+![](./Graficos/M22_lin.png)
+<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico30.csv" target="_blank">Descargar Datos</a>
+
+<a id="M2c3"></a>
+
+<br><br><br><br>
+
+### 31
+![](./Graficos/M23_lin.png)
+<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico31.csv" target="_blank">Descargar Datos</a>
+
+
+## M2 en términos reales y del PIB
+
+<a id="M2_real"></a>
+
+<br><br><br><br>
+
+### 32
+![](./Graficos/M2_real.png)
+<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico32.csv" target="_blank">Descargar Datos</a>
+
+<a id="M2_pib1"></a>
+
+<br><br><br><br>
+
+### 33
+![](./Graficos/M2_pib1.png)
+<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico33.csv" target="_blank">Descargar Datos</a>
+
+<a id="M2_pib2"></a>
+
+<br><br><br><br>
+
+### 34
+![](./Graficos/M2_pib2.png)
+<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico34.csv" target="_blank">Descargar Datos</a>
+
+<a id="M2_pib3"></a>
+
+<br><br><br><br>
+
+### 35
+![](./Graficos/M2_pib3.png)
+<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico35.csv" target="_blank">Descargar Datos</a>
+
+## Crecimiento anual de M2 y sus componentes
+
+<a id="M2_crec_M2"></a>
+
+<br><br><br><br>
+
+### 36
+![](./Graficos/M2_crec_M2.png)
+<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico36.csv" target="_blank">Descargar Datos</a>
+
+<a id="M2_crec_circ"></a>
+
+<br><br><br><br>
+
+### 37 
+![](./Graficos/M2_crec_circ.png)
+<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico37.csv" target="_blank">Descargar Datos</a>
+
+
+<a id="M2_crec_cc"></a>
+
+<br><br><br><br>
+
+## 38
+![](./Graficos/crec_cc.png)
+<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico38.csv" target="_blank">Descargar Datos</a>
+
+<a id="M2_crec_ca"></a>
+
+<br><br><br><br>
+
+## 39
+![](./Graficos/crec_ca.png)
+<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico39.csv" target="_blank">Descargar Datos</a>
+

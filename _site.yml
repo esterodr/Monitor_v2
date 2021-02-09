@@ -3,12 +3,14 @@ output_dir: "."
 navbar:
   title: "Índice"
   left:
-    - text: "Agregados"
+    - text: "Base Monetaria"
       href: Agregados.html
-    - text: "Tasas"
-      href: Tasas.html
+    - text: "M2"
+      href: M2.html
     - text: "Pasivos Remunerados"
       href: Pasivos.html
+    - text: "Tasas"
+      href: Tasas.html
     - text: "Depósitos"
       href: Depositos.html
     - text: "Préstamos"
