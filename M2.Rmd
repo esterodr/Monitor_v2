@@ -7,6 +7,9 @@ knitr::opts_chunk$set(echo = FALSE)
 knitr::opts_knit$set(root.dir=normalizePath("."))
 ```
 
+```{r eval=TRUE}
+N <- 23
+```
 
 ## M2
 
@@ -14,33 +17,59 @@ knitr::opts_knit$set(root.dir=normalizePath("."))
 
 <br><br><br><br>
 
-### 24
+```{r eval=TRUE}
+N <- N+1
+link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+```
+### `r N`
+<br>
+
 ![](./Graficos/M20.png)
-<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico24.csv" target="_blank">Descargar Datos</a>
+<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
 
 <a id="M21"></a>
 
 <br><br><br><br>
 
-### 25
+```{r eval=TRUE}
+N <- N+1
+link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+```
+### `r N`
+<br>
+
 ![](./Graficos/M21.png)
-<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico25.csv" target="_blank">Descargar Datos</a>
+<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
 
 <a id="M22"></a>
 
 <br><br><br><br>
 
-### 26
+```{r eval=TRUE}
+N <- N+1
+link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+```
+### `r N`
+<br>
+
 ![](./Graficos/M22.png)
-<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico26.csv" target="_blank">Descargar Datos</a>
+<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
 
 <a id="M23"></a>
 
 <br><br><br><br>
 
-### 27
+```{r eval=TRUE}
+N <- N+1
+link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+```
+### `r N`
+<br>
+
 ![](./Graficos/M23.png)
-<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico27.csv" target="_blank">Descargar Datos</a>
+<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
+
+<br><br><br><br>
 
 ## Componentes de M2
 
@@ -48,34 +77,59 @@ knitr::opts_knit$set(root.dir=normalizePath("."))
 
 <br><br><br><br>
 
-### 28
+```{r eval=TRUE}
+N <- N+1
+link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+```
+### `r N`
+<br>
+
 ![](./Graficos/M20_lin.png)
-<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico28.csv" target="_blank">Descargar Datos</a>
+<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
 
 <a id="M2c1"></a>
 
 <br><br><br><br>
 
-### 29
+```{r eval=TRUE}
+N <- N+1
+link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+```
+### `r N`
+<br>
+
 ![](./Graficos/M21_lin.png)
-<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico29.csv" target="_blank">Descargar Datos</a>
+<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
 
 <a id="M2c2"></a>
 
 <br><br><br><br>
 
-### 30
+```{r eval=TRUE}
+N <- N+1
+link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+```
+### `r N`
+<br>
+
 ![](./Graficos/M22_lin.png)
-<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico30.csv" target="_blank">Descargar Datos</a>
+<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
 
 <a id="M2c3"></a>
 
 <br><br><br><br>
 
-### 31
-![](./Graficos/M23_lin.png)
-<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico31.csv" target="_blank">Descargar Datos</a>
+```{r eval=TRUE}
+N <- N+1
+link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+```
+### `r N`
+<br>
 
+![](./Graficos/M23_lin.png)
+<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
+
+<br><br><br><br>
 
 ## M2 en términos reales y del PIB
 
@@ -83,33 +137,59 @@ knitr::opts_knit$set(root.dir=normalizePath("."))
 
 <br><br><br><br>
 
-### 32
+```{r eval=TRUE}
+N <- N+1
+link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+```
+### `r N`
+<br>
+
 ![](./Graficos/M2_real.png)
-<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico32.csv" target="_blank">Descargar Datos</a>
+<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
 
 <a id="M2_pib1"></a>
 
 <br><br><br><br>
 
-### 33
+```{r eval=TRUE}
+N <- N+1
+link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+```
+### `r N`
+<br>
+
 ![](./Graficos/M2_pib1.png)
-<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico33.csv" target="_blank">Descargar Datos</a>
+<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
 
 <a id="M2_pib2"></a>
 
 <br><br><br><br>
 
-### 34
+```{r eval=TRUE}
+N <- N+1
+link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+```
+### `r N`
+<br>
+
 ![](./Graficos/M2_pib2.png)
-<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico34.csv" target="_blank">Descargar Datos</a>
+<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
 
 <a id="M2_pib3"></a>
 
 <br><br><br><br>
 
-### 35
+```{r eval=TRUE}
+N <- N+1
+link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+```
+### `r N`
+<br>
+
 ![](./Graficos/M2_pib3.png)
-<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico35.csv" target="_blank">Descargar Datos</a>
+<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
+
+<br><br><br><br>
 
 ## Crecimiento anual de M2 y sus componentes
 
@@ -117,32 +197,56 @@ knitr::opts_knit$set(root.dir=normalizePath("."))
 
 <br><br><br><br>
 
-### 36
+```{r eval=TRUE}
+N <- N+1
+link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+```
+### `r N`
+<br>
+
 ![](./Graficos/M2_crec_M2.png)
-<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico36.csv" target="_blank">Descargar Datos</a>
+<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
 
 <a id="M2_crec_circ"></a>
 
 <br><br><br><br>
 
-### 37 
+```{r eval=TRUE}
+N <- N+1
+link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+```
+### `r N`
+<br>
+
 ![](./Graficos/M2_crec_circ.png)
-<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico37.csv" target="_blank">Descargar Datos</a>
+<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
 
 
 <a id="M2_crec_cc"></a>
 
 <br><br><br><br>
 
-## 38
+```{r eval=TRUE}
+N <- N+1
+link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+```
+### `r N`
+<br>
+
 ![](./Graficos/crec_cc.png)
-<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico38.csv" target="_blank">Descargar Datos</a>
+<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
 
 <a id="M2_crec_ca"></a>
 
 <br><br><br><br>
 
-## 39
+```{r eval=TRUE}
+N <- N+1
+link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+```
+### `r N`
+<br>
+
 ![](./Graficos/crec_ca.png)
-<a href="https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico39.csv" target="_blank">Descargar Datos</a>
+<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
 
