@@ -19,7 +19,7 @@ N <- 23
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
 ```
 ### `r N`
 <br>
@@ -33,7 +33,7 @@ link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
 ```
 ### `r N`
 <br>
@@ -47,7 +47,7 @@ link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
 ```
 ### `r N`
 <br>
@@ -61,7 +61,7 @@ link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
 ```
 ### `r N`
 <br>
@@ -79,7 +79,7 @@ link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
 ```
 ### `r N`
 <br>
@@ -93,7 +93,7 @@ link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
 ```
 ### `r N`
 <br>
@@ -107,7 +107,7 @@ link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
 ```
 ### `r N`
 <br>
@@ -121,7 +121,7 @@ link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
 ```
 ### `r N`
 <br>
@@ -139,7 +139,7 @@ link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
 ```
 ### `r N`
 <br>
@@ -153,7 +153,7 @@ link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
 ```
 ### `r N`
 <br>
@@ -167,7 +167,7 @@ link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
 ```
 ### `r N`
 <br>
@@ -181,7 +181,7 @@ link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
 ```
 ### `r N`
 <br>
@@ -199,7 +199,7 @@ link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
 ```
 ### `r N`
 <br>
@@ -213,7 +213,7 @@ link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
 ```
 ### `r N`
 <br>
@@ -228,7 +228,7 @@ link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
 ```
 ### `r N`
 <br>
@@ -242,7 +242,7 @@ link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://github.com/esterodr/Monitor_v2/blob/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
 ```
 ### `r N`
 <br>
