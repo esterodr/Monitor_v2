@@ -8,7 +8,8 @@ knitr::opts_knit$set(root.dir=normalizePath("."))
 ```
 
 ```{r eval=TRUE}
-N <- 23
+N <- 0
+pag <- 2
 ```
 
 ## M2
@@ -19,13 +20,14 @@ N <- 23
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",pag*100+N,".csv")
 ```
-### `r N`
+### `r paste0(pag,".",N)`
 <br>
 
 ![](./Graficos/M20.png)
-<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
+<br>**Nota:** Series Diarias
+<br>[Descargar Datos](`r link`){target="_blank"}
 
 <a id="M21"></a>
 
@@ -33,13 +35,14 @@ link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/G
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",pag*100+N,".csv")
 ```
-### `r N`
+### `r paste0(pag,".",N)`
 <br>
 
 ![](./Graficos/M21.png)
-<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
+<br>**Nota:** Series Diarias
+<br>[Descargar Datos](`r link`){target="_blank"}
 
 <a id="M22"></a>
 
@@ -47,13 +50,14 @@ link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/G
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",pag*100+N,".csv")
 ```
-### `r N`
+### `r paste0(pag,".",N)`
 <br>
 
 ![](./Graficos/M22.png)
-<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
+<br>**Nota:** Series Diarias
+<br>[Descargar Datos](`r link`){target="_blank"}
 
 <a id="M23"></a>
 
@@ -61,13 +65,14 @@ link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/G
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",pag*100+N,".csv")
 ```
-### `r N`
+### `r paste0(pag,".",N)`
 <br>
 
 ![](./Graficos/M23.png)
-<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
+<br>**Nota:** Series Diarias
+<br>[Descargar Datos](`r link`){target="_blank"}
 
 <br><br><br><br>
 
@@ -79,13 +84,14 @@ link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/G
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",pag*100+N,".csv")
 ```
-### `r N`
+### `r paste0(pag,".",N)`
 <br>
 
 ![](./Graficos/M20_lin.png)
-<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
+<br>**Nota:** Series Diarias
+<br>[Descargar Datos](`r link`){target="_blank"}
 
 <a id="M2c1"></a>
 
@@ -93,13 +99,14 @@ link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/G
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",pag*100+N,".csv")
 ```
-### `r N`
+### `r paste0(pag,".",N)`
 <br>
 
 ![](./Graficos/M21_lin.png)
-<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
+<br>**Nota:** Series Diarias
+<br>[Descargar Datos](`r link`){target="_blank"}
 
 <a id="M2c2"></a>
 
@@ -107,13 +114,14 @@ link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/G
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",pag*100+N,".csv")
 ```
-### `r N`
+### `r paste0(pag,".",N)`
 <br>
 
 ![](./Graficos/M22_lin.png)
-<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
+<br>**Nota:** Series Diarias
+<br>[Descargar Datos](`r link`){target="_blank"}
 
 <a id="M2c3"></a>
 
@@ -121,13 +129,14 @@ link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/G
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",pag*100+N,".csv")
 ```
-### `r N`
+### `r paste0(pag,".",N)`
 <br>
 
 ![](./Graficos/M23_lin.png)
-<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
+<br>**Nota:** Series Diarias
+<br>[Descargar Datos](`r link`){target="_blank"}
 
 <br><br><br><br>
 
@@ -139,13 +148,14 @@ link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/G
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",pag*100+N,".csv")
 ```
-### `r N`
+### `r paste0(pag,".",N)`
 <br>
 
 ![](./Graficos/M2_real.png)
-<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
+<br>**Nota:** Series Mensuales: promedio de datos diarios. Expresado a valores del último dato disponible.
+<br>[Descargar Datos](`r link`){target="_blank"}
 
 <a id="M2_pib1"></a>
 
@@ -153,13 +163,14 @@ link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/G
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",pag*100+N,".csv")
 ```
-### `r N`
+### `r paste0(pag,".",N)`
 <br>
 
 ![](./Graficos/M2_pib1.png)
-<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
+<br>**Nota:** Series Mensuales. Los componentes de M2 corresponden al promedio de datos diarios. Los valores trimestrales del PIB se mensualizan mediante una interpolación cúbica.
+<br>[Descargar Datos](`r link`){target="_blank"}
 
 <a id="M2_pib2"></a>
 
@@ -167,13 +178,14 @@ link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/G
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",pag*100+N,".csv")
 ```
-### `r N`
+### `r paste0(pag,".",N)`
 <br>
 
 ![](./Graficos/M2_pib2.png)
-<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
+<br>**Nota:** Series Mensuales, promedio móvil de 12 meses. Los componentes de M2 corresponden al promedio de datos diarios. Los valores trimestrales del PIB se mensualizan mediante una interpolación cúbica.
+<br>[Descargar Datos](`r link`){target="_blank"}
 
 <a id="M2_pib3"></a>
 
@@ -181,13 +193,14 @@ link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/G
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",pag*100+N,".csv")
 ```
-### `r N`
+### `r paste0(pag,".",N)`
 <br>
 
 ![](./Graficos/M2_pib3.png)
-<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
+<br>**Nota:** Series Mensuales Desestacionalizadas. Los componentes de M2 corresponden al promedio de datos diarios. Los valores trimestrales del PIB se mensualizan mediante una interpolación cúbica.
+<br>[Descargar Datos](`r link`){target="_blank"}
 
 <br><br><br><br>
 
@@ -199,13 +212,14 @@ link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/G
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",pag*100+N,".csv")
 ```
-### `r N`
+### `r paste0(pag,".",N)`
 <br>
 
 ![](./Graficos/M2_crec_M2.png)
-<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
+<br>**Nota:** Series Diarias y Promedio Móvil 30 días
+<br>[Descargar Datos](`r link`){target="_blank"}
 
 <a id="M2_crec_circ"></a>
 
@@ -213,14 +227,14 @@ link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/G
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",pag*100+N,".csv")
 ```
-### `r N`
+### `r paste0(pag,".",N)`
 <br>
 
 ![](./Graficos/M2_crec_circ.png)
-<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
-
+<br>**Nota:** Series Diarias y Promedio Móvil 30 días
+<br>[Descargar Datos](`r link`){target="_blank"}
 
 <a id="M2_crec_cc"></a>
 
@@ -228,13 +242,14 @@ link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/G
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",pag*100+N,".csv")
 ```
-### `r N`
+### `r paste0(pag,".",N)`
 <br>
 
 ![](./Graficos/crec_cc.png)
-<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
+<br>**Nota:** Series Diarias y Promedio Móvil 30 días
+<br>[Descargar Datos](`r link`){target="_blank"}
 
 <a id="M2_crec_ca"></a>
 
@@ -242,11 +257,11 @@ link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/G
 
 ```{r eval=TRUE}
 N <- N+1
-link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",N,".csv")
+link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/Grafico",pag*100+N,".csv")
 ```
-### `r N`
+### `r paste0(pag,".",N)`
 <br>
 
 ![](./Graficos/crec_ca.png)
-<div align="center">[Descargar Datos](`r link`){target="_blank"}</div>
-
+<br>**Nota:** Series Diarias y Promedio Móvil 30 días
+<br>[Descargar Datos](`r link`){target="_blank"}
