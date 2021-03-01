@@ -154,7 +154,7 @@ link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/G
 <br>
 
 ![](./Graficos/M2_real.png)
-<br>**Nota:** Series Mensuales: promedio de datos diarios. Expresado a valores del último dato disponible.
+<br>**Nota:** Series Mensuales: promedio de datos diarios. Expresado a valores del último dato disponible mediante la variación del IPC Nacional. Para los meses en los que todavía no se ha publicado el dato de inflación, se utiliza el valor estimado en la última publicación del REM.
 <br>[Descargar Datos](`r link`){target="_blank"}
 
 <a id="M2_pib1"></a>
@@ -169,7 +169,7 @@ link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/G
 <br>
 
 ![](./Graficos/M2_pib1.png)
-<br>**Nota:** Series Mensuales. Los componentes de M2 corresponden al promedio de datos diarios. Los valores trimestrales del PIB se mensualizan mediante una interpolación cúbica.
+<br>**Nota:** Series Mensuales. Los componentes de M2 corresponden al promedio de datos diarios. Los valores trimestrales del PIB se mensualizan mediante una interpolación cúbica. Para los trimestres en los que todavía no se ha publicado el dato de PIB, se utiliza el valor estimado en la última publicación del REM.
 <br>[Descargar Datos](`r link`){target="_blank"}
 
 <a id="M2_pib2"></a>
@@ -184,7 +184,7 @@ link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/G
 <br>
 
 ![](./Graficos/M2_pib2.png)
-<br>**Nota:** Series Mensuales, promedio móvil de 12 meses. Los componentes de M2 corresponden al promedio de datos diarios. Los valores trimestrales del PIB se mensualizan mediante una interpolación cúbica.
+<br>**Nota:** Series Mensuales, promedio móvil de 12 meses. Los componentes de M2 corresponden al promedio de datos diarios. Los valores trimestrales del PIB se mensualizan mediante una interpolación cúbica. Para los trimestres en los que todavía no se ha publicado el dato de PIB, se utiliza el valor estimado en la última publicación del REM.
 <br>[Descargar Datos](`r link`){target="_blank"}
 
 <a id="M2_pib3"></a>
@@ -199,7 +199,7 @@ link <- paste0("https://raw.githubusercontent.com/esterodr/Monitor_v2/main/CSV/G
 <br>
 
 ![](./Graficos/M2_pib3.png)
-<br>**Nota:** Series Mensuales Desestacionalizadas. Los componentes de M2 corresponden al promedio de datos diarios. Los valores trimestrales del PIB se mensualizan mediante una interpolación cúbica.
+<br>**Nota:** Series Mensuales Desestacionalizadas. Los componentes de M2 corresponden al promedio de datos diarios. Los valores trimestrales del PIB se mensualizan mediante una interpolación cúbica. Para los trimestres en los que todavía no se ha publicado el dato de PIB, se utiliza el valor estimado en la última publicación del REM.
 <br>[Descargar Datos](`r link`){target="_blank"}
 
 <br><br><br><br>
