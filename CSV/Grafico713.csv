@@ -1,4 +1,5 @@
 Factor;Valor
+<<<<<<< HEAD
 Total;-1873,21093165538
 Compra de
 Divisas;-328,00273476604
@@ -9,3 +10,15 @@ Sector Público;-273,266249883322
 Efectivo
 Mínimo;78,0270259543995
 Otros;-144,442643208241
+=======
+Total;-1715,54445506599
+Compra de
+Divisas;-266,50273476604
+Organismos
+Internacionales;-1201,11526894202
+Otras oper.
+Sector Público;-187,868548341154
+Efectivo
+Mínimo;25,7899743315011
+Otros;-85,8478773482735
+>>>>>>> 5fa77c511e99d97810d1a31f2db3ddb4187ab7fc
