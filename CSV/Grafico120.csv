@@ -1,32 +1,16 @@
 Factor;Valor
-<<<<<<< HEAD
-Total;66774
+Total;51900
 Compra de
 divisas al
-SP;-34655,52734
-=======
-Total;-66652
-Compra de
-divisas al
-SP;-28050,30234
->>>>>>> 5fa77c511e99d97810d1a31f2db3ddb4187ab7fc
+SP;-40172,03534
 Compra de
 divisas al
 Tesoro;-122000
 Otras
 operaciones
-<<<<<<< HEAD
-con Tesoro;20536,57441848
-Pases;622511,740796751
+con Tesoro;59550,23001468
+Pases;574797,315658001
 Leliq;-526388,28181097
 Redesc.;0
-Intereses;132130,5246637
-Otros;-25361,0307279607
-=======
-con Tesoro;20836,16258663
-Pases;454134,567731481
-Leliq;-500086,62533169
-Redesc.;0
-Intereses;134348,13686194
-Otros;-25833,9395083607
->>>>>>> 5fa77c511e99d97810d1a31f2db3ddb4187ab7fc
+Intereses;130424,96294608
+Otros;-24312,1914677907
